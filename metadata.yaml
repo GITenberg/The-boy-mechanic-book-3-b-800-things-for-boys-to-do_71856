@@ -1,0 +1,31 @@
+_repo: The-boy-mechanic-book-3-b-800-things-for-boys-to-do_71856
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Windsor, H. H. (Henry Haven)
+    alias: Windsor, Henry Haven
+    birthdate: 1859
+    deathdate: 1924
+    gutenberg_agent_id: '25975'
+    url: http://www.gutenberg.org/2009/agents/25975
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Haven_Windsor
+description: ''
+gutenberg_issued: '2023-10-12'
+identifiers:
+  gutenberg: '71856'
+language: en
+pgterms:marc904: https://archive.org/details/boymechanicthing03unse
+pgterms:marc905: 20061218125717windsor
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Charlene Taylor, Harry Lamé and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aChicago :$bPopular Mechanics Co., $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The boy mechanic, book 3 : $b 800 things for boys to do'
+url: http://www.gutenberg.org/ebooks/71856
